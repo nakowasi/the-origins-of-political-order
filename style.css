@@ -1,0 +1,366 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt;
+    }
+
+body {
+    width: 90%;
+    margin: 1em auto;
+    font-family:"Kaiti SC", Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+div {
+    margin-bottom: 1em !important;
+}
+
+img{
+    width: 90% !important;
+    text-align: center !important;
+}
+
+sup {
+    margin-right: 0.5em;
+}
+
+.b {
+    font-weight: bold
+    }
+.b1 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.blocktext {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    /* text-align: justify */ 
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    /* text-align: justify */
+    }
+.calibre1 {
+    height: 100%;
+    width: auto
+    }
+.calibre2 {
+    line-height: 1.2
+    }
+.calibre3 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre4 {
+    height: 1332px;
+    width: 852px
+    }
+.calibre5 {
+    height: 300px;
+    width: 495px
+    }
+.calibre6 {
+    height: 661px;
+    width: 472px
+    }
+.calibre7 {
+    height: 579px;
+    width: 492px
+    }
+.calibre8 {
+    height: 800px;
+    width: 426px
+    }
+.calibre9 {
+    height: 685px;
+    width: 468px
+    }
+.calibre10 {
+    height: 600px;
+    width: 472px
+    }
+.calibre11 {
+    display: table-column
+    }
+.calibre12 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre13 {
+    height: 293px;
+    width: 474px
+    }
+.calibre14 {
+    height: 269px;
+    width: 461px
+    }
+.calibre15 {
+    height: 718px;
+    width: 468px
+    }
+.calibre16 {
+    height: 682px;
+    width: 468px
+    }
+.calibre17 {
+    height: 276px;
+    width: 447px
+    }
+.calibre18 {
+    height: 560px;
+    width: 492px
+    }
+.calibre19 {
+    height: 276px;
+    width: 433px
+    }
+.calibre20 {
+    height: 239px;
+    width: 421px
+    }
+.calibre21 {
+    height: 311px;
+    width: 452px
+    }
+.calibre22 {
+    height: 863px;
+    width: 829px
+    }
+.calibre23 {
+    height: 272px;
+    width: 436px
+    }
+.calibre24 {
+    height: 279px;
+    width: 415px
+    }
+.calibre25 {
+    height: 247px;
+    width: 482px
+    }
+.calibre26 {
+    height: 212px;
+    width: 448px
+    }
+.calibre27 {
+    height: 277px;
+    width: 453px
+    }
+.calibre28 {
+    height: 13px;
+    width: 7px
+    }
+.caption {
+    display: block;
+    font-size: 0.83333em;
+    text-align: left
+    }
+.dedicationpage {
+    display: block;
+    margin-top: 2em
+    }
+.endnotes {
+    display: block;
+    margin-bottom: 1em
+    }
+.filet_x {
+    display: table-cell;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    text-align: left;
+    vertical-align: inherit
+    }
+.filet_x1 {
+    display: table-cell;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    text-align: left;
+    vertical-align: top
+    }
+.i {
+    font-style: bold;
+    color: brown;
+    }
+.i1 {
+    font-style: bold;
+    line-height: 1.2
+    }
+.illustype_fullpage_image {
+    display: block;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center
+    }
+.illustype_image_text {
+    display: block;
+    margin-bottom: 1.5em;
+    margin-top: 1.5em;
+    text-align: center
+    }
+.index_section {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-top: 0
+    }
+.nl {
+    display: block;
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    margin-bottom: 0.5em;
+    margin-left: 2.5em;
+    margin-top: 0.5em;
+    text-indent: -1em
+    }
+.none {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    font-size: 1em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em;
+    text-align: left;
+    text-indent: 0
+    }
+.p {
+    display: block;
+    margin-bottom: 0;
+    margin-top: 0
+    }
+.p-blanc {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.p-blocktext {
+    display: block;
+    margin-left: 1em;
+    margin-right: 1em
+    }
+.p-d {
+    display: block;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: right
+    }
+.p-indent {
+    display: block;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 2em
+    }
+.p-indent-blocktext {
+    display: block;
+    margin-left: 1em;
+    margin-right: 1em;
+    text-indent: 1em
+    }
+.part {
+    display: block;
+    /* text-align: justify */
+    }
+.pubinfo {
+    display: block;
+    text-align: center
+    }
+.subtitle-part {
+    display: block;
+    font-size: 1.66667em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    text-align: center
+    }
+.tableau {
+    display: block;
+    margin-bottom: 0.75em;
+    margin-top: 0.75em;
+    padding-bottom: 0.25em;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+    padding-top: 0.25em
+    }
+.title-acknowpage {
+    display: block;
+    font-size: 1.83333em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-top: 0;
+    text-align: center
+    }
+.title-chapter {
+    display: block;
+    font-size: 1.83333em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+    margin-top: 2em;
+    text-align: center
+    }
+.title-part {
+    display: block;
+    font-size: 2em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+    margin-top: 2em;
+    text-align: center
+    }
+.title-section {
+    display: block;
+    font-size: 1.29167em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+    margin-top: 2em;
+    text-align: center
+    }
+.title-toc {
+    display: block;
+    font-size: 1.66667em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+    margin-top: 2em;
+    text-align: center
+    }
+.titlepage {
+    display: block
+    }
+.toc_entry {
+    display: block;
+    margin-left: 1em
+    }
+
